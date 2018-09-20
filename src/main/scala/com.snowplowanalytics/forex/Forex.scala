@@ -17,8 +17,6 @@ import java.time.ZonedDateTime
 import java.time.temporal.ChronoUnit
 import java.math.{BigDecimal, RoundingMode}
 
-import com.snowplowanalytics.lrumap.LruMap
-
 // cats
 import cats.effect.Sync
 import cats.implicits._

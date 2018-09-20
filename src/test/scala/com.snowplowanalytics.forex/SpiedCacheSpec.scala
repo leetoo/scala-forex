@@ -13,8 +13,6 @@
 package com.snowplowanalytics.forex
 
 // Java
-import java.lang.Thread
-import java.math.BigDecimal
 import java.time.{ZoneId, ZonedDateTime}
 
 // cats
